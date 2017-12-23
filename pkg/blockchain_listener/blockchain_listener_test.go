@@ -1,9 +1,9 @@
 package blockchain_listener_test
 
 import (
-	"github.com/8thlight/vulcanizedb/pkg/blockchain_listener"
-	"github.com/8thlight/vulcanizedb/pkg/core"
-	"github.com/8thlight/vulcanizedb/pkg/fakes"
+	"github.com/vulcanize/vulcanizedb/pkg/blockchain_listener"
+	"github.com/vulcanize/vulcanizedb/pkg/core"
+	"github.com/vulcanize/vulcanizedb/pkg/fakes"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

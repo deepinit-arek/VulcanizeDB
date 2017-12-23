@@ -1,6 +1,6 @@
 package fakes
 
-import "github.com/8thlight/vulcanizedb/pkg/core"
+import "github.com/vulcanize/vulcanizedb/pkg/core"
 
 type BlockchainObserver struct {
 	CurrentBlocks []core.Block

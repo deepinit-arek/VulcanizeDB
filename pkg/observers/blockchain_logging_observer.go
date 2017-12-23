@@ -6,7 +6,7 @@ import (
 
 	"time"
 
-	"github.com/8thlight/vulcanizedb/pkg/core"
+	"github.com/vulcanize/vulcanizedb/pkg/core"
 )
 
 const blockAddedTemplate = `

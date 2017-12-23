@@ -5,11 +5,11 @@ import (
 
 	"flag"
 
-	"github.com/8thlight/vulcanizedb/cmd"
-	"github.com/8thlight/vulcanizedb/pkg/blockchain_listener"
-	"github.com/8thlight/vulcanizedb/pkg/core"
-	"github.com/8thlight/vulcanizedb/pkg/geth"
-	"github.com/8thlight/vulcanizedb/pkg/observers"
+	"github.com/vulcanize/vulcanizedb/cmd"
+	"github.com/vulcanize/vulcanizedb/pkg/blockchain_listener"
+	"github.com/vulcanize/vulcanizedb/pkg/core"
+	"github.com/vulcanize/vulcanizedb/pkg/geth"
+	"github.com/vulcanize/vulcanizedb/pkg/observers"
 )
 
 func main() {
